@@ -1,2 +1,2 @@
 # portafolio-FrontEnd
-Este repositorio será destinado al Fron End del proyeco de portafolio web. 
+Este repositorio será destinado al Front End del proyeco de portafolio web. 
